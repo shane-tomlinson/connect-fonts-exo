@@ -12,15 +12,15 @@
     },
     {
       "covers": "fonts",
-      "type": "",
-      "url": ""
+      "type": "OFL-1.1",
+      "url": "http://scripts.sil.org/OFL"
     }
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/shane-tomlinson/connect-fonts-exo"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "node": ">= 0.4.7"
   },

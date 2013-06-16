@@ -1,0 +1,29 @@
+{
+  "Author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
+  "name": "connect-fonts-exo",
+  "description": "Exo font pack for connect-fonts",
+  "keywords": ["font", "font-face", "CSS", "connect-fonts", "exo-black-italic", "exo-black", "exo-bold-italic", "exo-bold", "exo-demibold-italic", "exo-demibold", "exo-extrabold-italic", "exo-extrabold", "exo-extralight-italic", "exo-extralight", "exo-light-italic", "exo-light", "exo-medium-italic", "exo-medium", "exo-regular-italic", "exo-regular", "exo-thin-italic", "exo-thin"],
+  "homepage": "https://github.com/shane-tomlinson/connect-fonts-exo",
+  "licenses": [
+    {
+      "covers": "software",
+      "type": "MPL-2.0",
+      "url": "http://mozilla.org/MPL/2.0/"
+    },
+    {
+      "covers": "fonts",
+      "type": "",
+      "url": ""
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shane-tomlinson/connect-fonts-exo"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.4.7"
+  },
+  "main": "index"
+}
+
